@@ -9,7 +9,7 @@ Problems are of varying difficulty, but each is solvable in less than a minute o
 
 Well, as I said in the [ProjectEuler python repository](https://github.com/CapnSane/ProjectEuler), I decided starting my programming studies from somewhere, then I chose a programming language that would be different from the languages that I learned in my graduation (Pascal and Fortran 77). Thus I chose Python 3. I started a long time ago with Python 2, but the time passed... [Project Euler](https://projecteuler.net/) has an enormous problems difficulty range, and the problems can be solved in infinite ways. I needed learning the Python 3 syntax and remembering the programming concepts I've learned before. This is why I started solving these problems.
 
-# SPOILER ALERT!
+## SPOILER ALERT
 
 This repository is only for practicing my JavaScript abilities in solving logical problems, I'm not depriving others of going through the same process by publishing my solution outside of Project Euler. DO IT BY YOURSELF. Only check the answers after doing them by yourself. Copying my solution won't teach you much.
 
